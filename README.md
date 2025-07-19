@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=943126&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+The+StackedArchitect+%F0%9F%91%8B;RTL+Design+%26+Digital+Verification;Computer+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8e44ad&center=true&vCenter=true&width=550&lines= Hi+there%2C+I'm+The+StackedArchitect+%F0%9F%91%8B;RTL+Design+%26+Digital+Verification" alt="Typing SVG" />
   </a>
 </p>
-
 <br>
 
 As a final-year Electrical & Electronics Engineering student with a Minor in Computer Science, my primary passion lies in the world of computer architecture and RTL design. I am driven by the challenge of designing digital systems from the ground up—from writing Verilog for custom processors to verifying logic on FPGAs. While I enjoy building full-stack applications, my core focus is on the hardware that makes it all possible

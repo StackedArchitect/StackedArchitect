@@ -19,6 +19,7 @@ As a final-year Electrical & Electronics Engineering student with a Minor in Com
 <a href="#"><img src="https://img.shields.io/badge/Vivado-2B2C40?style=for-the-badge" alt="Vivado"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
 <a href="#"><img src="https://img.shields.io/badge/RISC--V-16218C?style=for-the-badge" alt="RISC-V"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MIPS-741CB7?style=for-the-badge" alt="MIPS"/></a>
 

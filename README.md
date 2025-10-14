@@ -89,7 +89,6 @@ A selection of projects showcasing my experience from digital logic to full-stac
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StackedArchitect&show_icons=true&locale=en&theme=transparent&hide_border=true&rank_icon=github" alt="StackedArchitect's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StackedArchitect&layout=compact&locale=en&theme=transparent&hide_border=true" alt="StackedArchitect's Top Languages" />
 </p>
 
 <br>

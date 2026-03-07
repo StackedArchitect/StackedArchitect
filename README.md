@@ -16,6 +16,7 @@ As a final-year Electrical & Electronics Engineering student with a Minor in Com
 
 **Hardware & Architecture**<br>
 <a href="#"><img src="https://img.shields.io/badge/Verilog-EB5B10?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/></a>
+<a href="#"><img src="https://img.shields.io/badgeSystemVerilog-F4C430?style=for-the-badge&logo=Systemverilog&logoColor=black" alt="SystemVerilog"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Vivado-2B2C40?style=for-the-badge" alt="Vivado"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>

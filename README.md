@@ -43,12 +43,25 @@ As a final-year Electrical & Electronics Engineering student with a Minor in Com
 
 ### 🏗️ Featured Hardware & Software Projects
 
-A selection of projects showcasing my experience from digital logic to full-stack applications.
+A selection of projects showcasing my experience in RTL Design and Verification.
+
+<details>
+  <summary><strong>NOC MetaPyUVM - Network-on-Chip Testbench</strong></summary>
+  <br>
+  <p>A comprehensive Python-based testbench for Network-on-Chip (NOC) verification using PyUVM and Cocotb frameworks.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
+    <img src="https://img.shields.io/badge/MIPS-B71C1C?style=for-the-badge" alt="PyUVM"/>
+    <img src="https://img.shields.io/badge/CPU_Design-D35400?style=for-the-badge" alt="Cocotb"/>
+  </p>
+  <a href="https://github.com/StackedArchitect/NOC_MetaPyUVM"><strong>View Repository &rarr;</strong></a>
+</details>
 
 <details>
   <summary><strong>Fault-Tolerant RISC-V Processor (Verilog)</strong></summary>
   <br>
-  <p>A fault-tolerant, pipelined RISC-V processor featuring Triple Modular Redundancy (TMR) and SECDED memory protection. A deep-dive into reliable computer architecture, designed for synthesis and verification.</p>
+  <p>A fault-tolerant, pipelined RISC-V processor featuring Triple Modular Redundancy (TMR) and SECDED memory protection. A deep dive into reliable computer architecture, designed for synthesis and verification.</p>
   <p>
     <img src="https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
     <img src="https://img.shields.io/badge/Vivado-592782?style=for-the-badge" alt="Vivado"/>
@@ -72,26 +85,16 @@ A selection of projects showcasing my experience from digital logic to full-stac
 </details>
 
 <details>
-  <summary><strong>Elucidra - AI-Powered Learning SaaS App (TypeScript)</strong></summary>
+  <summary><strong>Asynchronous and Synchronous FIFO</strong></summary>
   <br>
-  <p>A modern AI-powered learning platform (SaaS) that lets users interact with intelligent virtual tutors in real time. Demonstrates full-stack development and system integration skills.</p>
+  <p>FIFO stands for "First-In, First-Out." It is a type of data structure or buffer in which the first data element added (the "first in") is the first one to be removed (the "first out"). This structure is commonly used in scenarios where order of operations is important.</p>
   <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/AI/ML-4CAF50?style=for-the-badge" alt="AI/ML"/>
-    <img src="https://img.shields.io/badge/SaaS-17A2B8?style=for-the-badge" alt="SaaS"/>
+    <img src="https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
+    <img src="https://img.shields.io/badge/Vivado-592782?style=for-the-badge" alt="Vivado"/>
+    <img src="https://img.shields.io/badge/Architecture-B71C1C?style=for-the-badge" alt="FIFO"/>
   </p>
-  <a href="https://github.com/StackedArchitect/SaaS-App"><strong>View Repository &rarr;</strong></a>
+  <a href="https://github.com/StackedArchitect/FIFO"><strong>View Repository &rarr;</strong></a>
 </details>
 
----
-
-#### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StackedArchitect&show_icons=true&locale=en&theme=transparent&hide_border=true&rank_icon=github" alt="StackedArchitect's GitHub Stats" />
-</p>
-
-<br>
 
 ---
